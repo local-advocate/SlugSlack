@@ -27,7 +27,7 @@ docker-compose up -d
 npm run dev
 ```
 ```bash
-npm run test:silent  # Run the tests (either one)
+npm run test:silent  # Run the tests 
 npm run lint         # Run lint
 npm run zip          # Zip the project
 ```
