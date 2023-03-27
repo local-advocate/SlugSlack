@@ -12,6 +12,8 @@ YouTube Link: https://youtu.be/WiOv021PWm8
 [![SlugSlack Demonstration](https://github.com/local-advocate/SlugSlack/blob/main/SlugSlack.PNG)](https://youtu.be/WiOv021PWm8 "SlugSlack Demonstration")
 
 ## Scripts
+The following commands are meant to be run from the most parent directory of this repository.
+
 ```bash
 # Install the required modules
 npm install
