@@ -5,11 +5,11 @@ A single page, context shared application version of the original Slack app.
 * Inside a workspace, owners of the workspace have the ability to create and delete default (public) and non-default (private) channels. Additionally, owners can add and remove a user from a specific channel in their workspace.  
 * Inside a channel, all the users who have access to that channel are able to view and create messages.  
 * Technology stack: TypeGraphQL, NextJS, React, PostgreSQL.  
-* Demonstration: .
-  
-<p align='center'>
-      <br><img alt='SlugSlack' src='https://github.com/local-advocate/SlugSlack/blob/main/SlugSlack.PNG' /><br>
-</p>
+
+
+## Demonstration
+YouTube Link: https://youtu.be/WiOv021PWm8  
+[![SlugSlack Demonstration](https://github.com/local-advocate/SlugSlack/blob/main/SlugSlack.PNG)](https://youtu.be/WiOv021PWm8 "SlugSlack Demonstration")
 
 ## Scripts
 ```bash
